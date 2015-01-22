@@ -1,2 +1,2 @@
 # hello-world
-This is first step to awesomeness.
+This is the first step to awesomeness.
